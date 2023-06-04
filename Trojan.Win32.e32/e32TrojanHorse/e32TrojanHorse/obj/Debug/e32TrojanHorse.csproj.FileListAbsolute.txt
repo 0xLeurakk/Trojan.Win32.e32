@@ -1,0 +1,36 @@
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32TrojanHorse.exe.config
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32TrojanHorse.exe
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32TrojanHorse.pdb
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.AssemblyReference.cache
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.SuggestedBindingRedirects.cache
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.Properties.Resources.resources
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.GenerateResource.cache
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.CoreCompileInputs.cache
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.exe
+E:\Leurak\PCViruses\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.pdb
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32.exe.config
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32.exe
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32.pdb
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.AssemblyReference.cache
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.GDIPayloads.resources
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.InitPayloads.resources
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.TrojanMain.resources
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.Properties.Resources.resources
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.GenerateResource.cache
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.CoreCompileInputs.cache
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32.exe
+C:\Users\Orizon Leurak\Documents\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32.pdb
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32.exe.config
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32.exe
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\bin\Debug\e32.pdb
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.AssemblyReference.cache
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.GDIPayloads.resources
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.InitPayloads.resources
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.TrojanMain.resources
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.Properties.Resources.resources
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.GenerateResource.cache
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32TrojanHorse.csproj.CoreCompileInputs.cache
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32.exe
+C:\Users\Orizon Leurak\Documents\Malwares\Trojan.Win32.e32\e32TrojanHorse\e32TrojanHorse\obj\Debug\e32.pdb
