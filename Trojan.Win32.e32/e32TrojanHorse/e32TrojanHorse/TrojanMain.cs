@@ -72,7 +72,7 @@ namespace e32TrojanHorse
 
         private void TrojanMain_Load(object sender, EventArgs e)
         {
-            if (MessageBox.Show("This is a TROJAN HORSE that infects your machine and DESTROYS it.\n Educational malware created by Orizon Hacker (https://youtube.com/c/orizonhacker)", "WARNING, THIS IS A MALWARE!!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2) == DialogResult.No)
+            if (MessageBox.Show("This is a TROJAN HORSE that infects your machine and DESTROYS it.\n Educational malware created by Leurak Hacker (https://youtube.com/@LeurakHacker)", "WARNING, THIS IS A MALWARE!!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2) == DialogResult.No)
             {
                 Application.Exit();
             }
